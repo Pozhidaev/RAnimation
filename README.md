@@ -10,7 +10,6 @@ Example configs are in Configs.swift file
 
 <br />
 
---- | --- | --- | ---
 ![](Art/Screenshot_1.png) | ![](Art/Screenshot_2.png) | ![](Art/Screenshot_3.png) | ![](Art/Screenshot_4.png)
 
 <br />
